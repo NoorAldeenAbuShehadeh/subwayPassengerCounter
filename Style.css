@@ -1,0 +1,46 @@
+body {
+    background-image: url('./background-passengers.jpg');
+    background-repeat: no-repeat ;
+    background-size: 100% 100% ;
+}
+.container{
+    background-color: lightcyan ;
+    margin-left: 15%;
+    margin-right: 15%;
+    border: solid;
+    border-color: black;
+    text-align: center;
+    border-radius: 10px;
+}
+h1 {
+    text-align: center;
+    color: black;
+}
+button{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 26px;
+    font-weight: bold;
+    padding-top: 5;
+    padding-bottom: 5;
+    padding-left: 10;
+    padding-right: 10;
+    border-radius: 15px;
+    margin-top: 10px;
+    width: 200px;
+}
+#increment-btn{
+    background-color: #57CC99;
+}
+
+#save-btn{
+    background-color: #0077B6; 
+
+}
+
+p{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+}
